@@ -11,3 +11,12 @@ Output should display a flood that gives the total contribution of money in rupe
 ...
 Output format:
 Output should display a flood that gives the total contribution of money in rupees from the cricket team. The float value should be displayed correct to 2 decimal places.
+...
+Sample input and output 1:
+45000
+40000
+215000.00
+Sample input and output 2:
+78000
+60000
+354000.00
